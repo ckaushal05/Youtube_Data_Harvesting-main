@@ -246,9 +246,6 @@ These applications demonstrate how the app can be utilized by content creators, 
 
 ![Screenshot (11)](https://github.com/Nirmal-Data-Scientist/Youtube_Data_Harvesting/assets/123751119/c9b11860-c9a7-40a0-b8f6-3ecc8182be39)
 
-## Web App Demo Video
-
-<a href="https://www.linkedin.com/posts/nirmal-kumar-data-scientist_youtubedata-dataharvesting-datawarehousing-activity-7068697509958742016-5yi2?utm_source=share&utm_medium=member_desktop" target="_blank">Demo Video</a>
 
 ## Streamlit web URL
 
