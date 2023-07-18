@@ -251,8 +251,6 @@ These applications demonstrate how the app can be utilized by content creators, 
 
 [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://youtube-data-harvesting.streamlit.app/)
 
-## Disclaimer
-This application is intended for educational and research purposes only and should not be used for any commercial or unethical activities.
 
-## Contact
-If you have any questions, comments, or suggestions for the app, please feel free to contact me at [nirmal.works@outlook.com]
+
+
