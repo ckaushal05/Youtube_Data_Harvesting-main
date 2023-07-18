@@ -239,7 +239,6 @@ To modify the app, you can:
 These applications demonstrate how the app can be utilized by content creators, marketers, businesses, and researchers to leverage YouTube data for strategic decision-making and audience engagement.
 
 ## Web App Snap
-![Screenshot (8)](https://github.com/Nirmal-Data-Scientist/Youtube_Data_Harvesting/assets/123751119/f7446674-615b-49da-81d8-63e985b89eb2)
 
 ![Screenshot (9)](https://github.com/Nirmal-Data-Scientist/Youtube_Data_Harvesting/assets/123751119/7cf675e0-f475-4f5a-a250-8a25855ea03b)
 
